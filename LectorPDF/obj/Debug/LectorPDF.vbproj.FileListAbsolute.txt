@@ -1,0 +1,1 @@
+\\psf\home\Documents\Visual Studio 2013\Projects\LectorPDF\LectorPDF\bin\Debug\LectorPDF.exe.config
